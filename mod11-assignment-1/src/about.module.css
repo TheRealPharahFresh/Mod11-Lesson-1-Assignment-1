@@ -1,0 +1,14 @@
+.container {
+    border: 2px;
+    box-shadow: 10px 0px 10px;
+    height: 250px;
+}
+
+
+.h1 {
+    font-size: 40px;
+}
+
+.bio {
+    font-size: 23px;
+}
